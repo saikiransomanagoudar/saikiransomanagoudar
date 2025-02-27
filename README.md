@@ -1,10 +1,8 @@
 # Hello! I'm Saikiran👋
 
-![](https://github.com/saikiransomanagoudar/stats/blob/master/generated/overview.svg)
-![](https://github.com/saikiransomanagoudar/stats/blob/master/generated/languages.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiransomanagoudar&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiransomanagoudar&layout=compact) -->
+![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/languages.svg)
 <!--
 **saikiransomanagoudar/saikiransomanagoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
