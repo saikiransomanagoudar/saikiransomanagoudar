@@ -1,8 +1,8 @@
 <!-- # Hello! I'm Saikiran 👋 -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiransomanagoudar&layout=compact) -->
-![](https://raw.githubusercontent.com/saikiransomanagoudar/saikiransomanagoudar/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/saikiransomanagoudar/saikiransomanagoudar/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/languages.svg)
 
 <!--
 ## ⚡ Languages and Frameworks
