@@ -202,6 +202,6 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 <!--   <img src="https://komarev.com/ghpvc/?username=saikiransomanagoudar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
 <!-- </div> -->
 
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something amazing! 🚀</i>
-</div>
+<!-- <div align="center"> -->
+<!--   <i>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something amazing! 🚀</i> -->
+<!-- </div> -->
