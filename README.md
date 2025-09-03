@@ -117,7 +117,6 @@ I'm a software engineer with over 4 years of experience building scalable web ap
   <tr>
     <td><b>AI & Development Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square&logo=langchain&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/LangGraph-0088CC.svg?style=flat-square&logoColor=white&labelColor=000000&label=LangGraph"/> -->
       <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black"/>
@@ -178,25 +177,6 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 <!-- - 🤖 **AI Integration Specialist** - Built chatbots with OpenAI API and LangChain -->
 <!-- - ☁️ **Cloud Migration Expert** - Led AWS hybrid cloud migration for 30+ applications -->
 <!-- - 📈 **Performance Optimizer** - Achieved 15% faster page loads and 20% increased user engagement -->
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/saikiransomanagoudar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/saikiransomanagoudar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:saikiransomanagoudar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.saikiransomanagoudar.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
 
 <!-- <div align="center"> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=saikiransomanagoudar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
