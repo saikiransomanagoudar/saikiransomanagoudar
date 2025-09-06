@@ -5,7 +5,7 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 ![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/saikiransomanagoudar/github-stats/master/generated/languages.svg)
 
-## 🚀 Featured Live Apps
+## Featured Live Apps
 
 <!-- <div align="center"> -->
 <!--   <a href="https://www.reddit.com/r/PlayGIFEnigma/" target="_blank"> -->
@@ -17,8 +17,9 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 <!-- </div> -->
 
 <!-- **Live Apps:** -->
-- **[ProfBot](https://prof-bot.vercel.app/)** - AI-powered professor information assistant for students
+- **[Smart Retail Bookstore](https://smart-retail-bookstore.vercel.app/)** - An e-commerce bookstore with AI-powered book recommendations based on user preferences
 - **[PlayGIFEnigma](https://www.reddit.com/r/PlayGIFEnigma/)** - Interactive GIF-based puzzle game built for Reddit platform
+- **[ProfBot](https://prof-bot.vercel.app/)** - AI-powered professor information assistant for students
 
 <!-- ## 🚀 What I'm Currently Up To -->
 
