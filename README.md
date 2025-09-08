@@ -107,14 +107,6 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 <!--       <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/> -->
 <!--     </td> -->
 <!--   </tr> -->
-
-  <tr>
-    <td><b>Real-Time Libraries</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white"/>
-    </td>
-  </tr>
-
   <tr>
     <td><b>AI & Development Tools</b></td>
     <td>
@@ -160,7 +152,7 @@ I'm a software engineer with over 4 years of experience building scalable web ap
       <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=flat-square&logo=cypress&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> -->
     </td>
-  </tr>
+ </tr>
 </table>
 
 <!-- ## 🎯 Recent Projects & Contributions -->
