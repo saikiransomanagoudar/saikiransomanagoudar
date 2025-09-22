@@ -143,16 +143,16 @@ I'm a software engineer with over 4 years of experience building scalable web ap
     </td>
   </tr>
 
-  <tr>
-    <td><b>Testing</b></td>
-    <td>
+<!--  <tr> -->
+<!--     <td><b>Testing</b></td> -->
+<!--     <td> -->
 <!--       <img src="https://img.shields.io/badge/JUnit-25A162.svg?style=flat-square&logo=junit5&logoColor=white"/> -->
-      <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white"/>
+<!--       <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white"/> -->
 <!--       <img src="https://img.shields.io/badge/React%20Testing%20Library-%23CC6699.svg?style=flat-square&logo=testing-library&logoColor=white"/> -->
-      <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=flat-square&logo=cypress&logoColor=white"/>
+<!--       <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=flat-square&logo=cypress&logoColor=white"/> -->
 <!--       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> -->
-    </td>
- </tr>
+<!--     </td> -->
+<!-- </tr> -->
 </table>
 
 <!-- ## 🎯 Recent Projects & Contributions -->
