@@ -18,8 +18,7 @@ I'm a software engineer with over 4 years of experience building scalable web ap
 
 <!-- **Live Apps:** -->
 <!-- **[Smart Retail Bookstore](https://smart-retail-bookstore.vercel.app/)** - An e-commerce bookstore with AI-powered book recommendations based on user preferences -->
-- **[GIF Enigma](https://www.reddit.com/r/PlayGIFEnigma/)** - Interactive GIF-based puzzle game built for Reddit platform
-- **[ProfBot](https://prof-bot.vercel.app/)** - AI-powered professor information assistant for students
+<!-- - **[GIF Enigma](https://www.reddit.com/r/PlayGIFEnigma/)** - Interactive GIF-based puzzle game built for Reddit platform -->
 
 <!-- ## 🚀 What I'm Currently Up To -->
 
